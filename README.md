@@ -1,6 +1,6 @@
 ### Hi!!! 👋 I am Gabriela Patricia Rodriguez... This is my profile... Welcome!!! 
 
-https://github.com/GabrielaPatriciaRodriguez/GabrielaPatriciaRodriguez/issues/2#issue-1228848723
+
 
 <!--
 **GabrielaPatriciaRodriguez/GabrielaPatriciaRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
