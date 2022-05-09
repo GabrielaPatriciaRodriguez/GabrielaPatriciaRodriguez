@@ -22,7 +22,7 @@ Actualmente, estoy trabajando en proyectos a fin de seguir desarrollando mis hab
 
 ### 📫 Get In Touch
 
-<a href="mailto:gprodriguez33@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="www.linkedin.com/in/gabrielapatriciarodriguezdesarrolladorweb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:gprodriguez33@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
