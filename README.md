@@ -1,6 +1,6 @@
 ### Hi!!! 👋 I am Gabriela Patricia Rodriguez... This is my profile... Welcome!!! 
 
-
+![frontEndDeveloper](https://user-images.githubusercontent.com/86595302/167291692-0630f003-ac27-45ce-8700-5b3b1427de40.png)
 
 <!--
 **GabrielaPatriciaRodriguez/GabrielaPatriciaRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
