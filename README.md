@@ -18,6 +18,18 @@ Actualmente, estoy trabajando en proyectos a fin de seguir desarrollando mis hab
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/> </a>
 </p>
+
+
+### 📫 Get In Touch
+
+<a href="mailto:gprodriguez33@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:gprodriguez33@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+ 
+⭐️ From [Gabriela](https://github.com/GabrielaPatriciaRodriguez) with :sparkling_heart: 
+
+
 <!--
 **GabrielaPatriciaRodriguez/GabrielaPatriciaRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
