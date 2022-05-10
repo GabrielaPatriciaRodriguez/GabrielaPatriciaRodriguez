@@ -8,6 +8,7 @@
 ![frontEndDeveloper](https://user-images.githubusercontent.com/86595302/167291692-0630f003-ac27-45ce-8700-5b3b1427de40.png)
 
 <div>
+ ## About Me :wave:
  <p>
 Abogada que decidió retarse a sí misma y reinventarse como Programadora Front-End. Mi curiosidad y mis ganas de aprender cada día más del mundo digital me llevaron a salir de mi zona de confort y buscar un camino más creativo e innovador. Me gusta la programación web, ya que me permite crear soluciones tecnológicas que cada día aportan valor a las personas y empresas. Los conocimientos que adquiri en derecho, mediación, docencia y mi experiencia laboral, ha contribuido en fortalecer competencias como el trabajo en equipo, resolución de problemas y adaptación constante a los cambios.
 Me esfuerzo todos los días por aprender y realizar cursos que me permitan conocer nuevas herramientas para poder aplicar en proyectos, y lograr que el usuario tenga una grata experiencia.
