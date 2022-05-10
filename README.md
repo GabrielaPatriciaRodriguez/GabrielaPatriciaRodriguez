@@ -1,5 +1,10 @@
 ### Hi!!! 👋 I am Gabriela Patricia Rodriguez... This is my profile... Welcome!!! 
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GabrielaPatriciaRodriguez)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapatriciarodriguezdesarrolladorweb)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gprodriguez33@gmail.com)
+
+
 ![frontEndDeveloper](https://user-images.githubusercontent.com/86595302/167291692-0630f003-ac27-45ce-8700-5b3b1427de40.png)
 
 <div>
@@ -19,12 +24,5 @@ Actualmente, estoy trabajando en proyectos a fin de seguir desarrollando mis hab
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/> </a>
 </p>
 
-
-### 📫 Get In Touch
-
-<a href="www.linkedin.com/in/gabrielapatriciarodriguezdesarrolladorweb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="mailto:gprodriguez33@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
  
 ⭐️ From [Gabriela](https://github.com/GabrielaPatriciaRodriguez) with :sparkling_heart: 
