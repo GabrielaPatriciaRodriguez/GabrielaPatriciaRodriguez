@@ -4,7 +4,7 @@
 
 <h3 align="center">Conect with me:</h3>
 <p align="center">
-<a href="gprodriguez33@gmail.com" target="blank" rel="noopener noreferrer">gprodriguez33@gmail</a>
+<a href="gprodriguez33@gmail.com" target="blank" rel="noopener noreferrer">gprodriguez33@gmail.com</a>
 
 </p>
 
