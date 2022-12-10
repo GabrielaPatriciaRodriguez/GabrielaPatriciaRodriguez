@@ -1,5 +1,13 @@
 ### Hi!!! 👋 I am Gabriela Patricia Rodriguez... This is my profile... Welcome!!! 
 
+<h3 align="center">Developer</h3>
+
+<h3 align="center">Conect with me:</h3>
+<p align="center">
+<a href="gprodriguez33@gmail.com" target="blank" rel="noopener noreferrer">gprodriguez33@gmail</a>
+
+</p>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GabrielaPatriciaRodriguez)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapatriciarodriguezdesarrolladorweb)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gprodriguez33@gmail.com)
